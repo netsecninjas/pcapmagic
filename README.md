@@ -2,6 +2,8 @@
 
 24K PCAP Magic :sparkles:
 
+[Slides Here](https://docs.google.com/presentation/d/16VOtRnjZgVy4oBk9_zENKH7Q8iTs6IrxrT7PYk4wJp0/edit?usp=sharing)
+
 ## Section 1: Introduction & Overiew
 
 ### 1.1 Requirements
